@@ -6,7 +6,7 @@ Rossmann Sales Prediction Project 🚀
 This project provides a machine learning solution for Rossmann Pharmaceuticals to forecast sales across their stores six weeks ahead. The system empowers the finance team with data-driven decisions by analyzing key factors including promotions, competition, holidays, seasonality, and locality.
 
 # Quick Start 🎯
-git clone https://github.com/yourusername/rossmann-sales.git
+git clone https://github.com/emnu-neh/Week-4.git
 cd rossmann-sales
 python -m venv env
 source env/bin/activate  # Linux/Mac
